@@ -9,13 +9,13 @@ NextSSS is a [Next.js](https://nextjs.org/) starter template especially for stat
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the template:
 
 ```bash
-npx create-next-app --example https://github.com/ixkaito/nextsss
+npx create-next-app --example https://github.com/niang/nextsss
 ```
 
 or
 
 ```bash
-yarn create next-app --example https://github.com/ixkaito/nextsss
+yarn create next-app --example https://github.com/niang610/nextsss
 ```
 
 ### Google Analytics
